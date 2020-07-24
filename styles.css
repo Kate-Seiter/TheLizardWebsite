@@ -1,0 +1,48 @@
+h1{
+text-align:center;
+font-size:70px;
+
+
+}
+
+
+.frontimage {
+width: 450px;
+height: 500px;
+}
+
+#navigation {
+    height: 60px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    font-size: xx-large;
+    float:left;
+}
+
+.navitem {
+    font-size: xx-large;
+    outline-color: black;
+    outline-width: thick;
+    display: block;
+    padding:8px;
+    margin-left: 20px;
+   
+}
+
+
+body {
+
+    background-color: antiquewhite;
+}
+
+
+
+#colorchanger{
+    display: block;
+    padding: 8px;
+}
+
